@@ -1,0 +1,11 @@
+.guarantee {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #a7cece;
+  padding: 25px;
+  margin: 30px;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+}
